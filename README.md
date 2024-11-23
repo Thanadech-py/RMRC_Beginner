@@ -1,6 +1,5 @@
 <h1> RMRC Beginner </h1>
-
-    This repository is is create for Rapidly Manufactured Robot Challenge (RMRC) in Arduino Education day in 2024
+This repository is is create for Rapidly Manufactured Robot Challenge (RMRC) in Arduino Education day in 2024
 
 <h3> Teammates </h3>
 

@@ -1,11 +1,11 @@
-<h1> RMRC Beginner </h1>
+<h1 align="center"> RMRC Beginner </h1>
 This repository is is create for Rapidly Manufactured Robot Challenge (RMRC) in Arduino Education day in 2024
 
-<h3> Teammates </h3>
+<h3 align="center"> Teammates </h3>
 
- - Mr.Tankhun PuangPerk (Pilot and Team Stategist)
+ - Mr.Tankhun Poungphueak (Pilot and Team Stategist)
 
- - Mr.Narinchai (Mechanics and Designer)
+ - Mr.Narinchai Supkerdpanya (Mechanics and Designer)
 
  - Mr.Thanadech Lapassirikul (Programmers and 3D Modelers)
 

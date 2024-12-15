@@ -191,7 +191,7 @@ void processGamepad(ControllerPtr gamepad) {
 
 void loop() {
   m2.setRPM(10000.0f);
-  m4.setRPM(10000.0f);
+  m1.setRPM(10000.0f);
   BP32.update();
   
   for (int i = 0; i < BP32_MAX_CONTROLLERS; i++) {
@@ -201,5 +201,4 @@ void loop() {
       processGamepad(myController);
     }
   }
-  delay(150);
 }
